@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm **[Your Name]**
+# Hi there! 👋 I'm **Harshit Sharma**
 
 ✨ A passionate developer exploring the realms of backend APIs, Android apps, and full-stack magic. I thrive on solving complex problems and learning new technologies every day!
 
