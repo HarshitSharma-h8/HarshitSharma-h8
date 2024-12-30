@@ -51,5 +51,5 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devfinHarshit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devfinHarshit&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitSharma-h8&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSharma-h8&layout=compact&theme=radical)
