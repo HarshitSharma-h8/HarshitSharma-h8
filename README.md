@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 What I'm Up To
-- 🌟 **Building:** QDuckaan for B2C (an innovative platform for businesses and customers).
+- 🌟 **Building:** TrueEcko
 - 🌱 **Learning:** Web Development and Backend technologies to create seamless applications.
 - 👥 **Collaborating:** Open to full-stack projects—let's build something awesome together!
 - 💡 **Seeking Help:** Always eager to improve my frontend development skills.
