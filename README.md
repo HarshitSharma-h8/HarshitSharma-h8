@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 What I'm Up To
-- 🌟 **Building:** [TrueEcko](https://true-echo-iota.vercel.app/)
+- 🌟 **Building:** MessMeta
 - 🌱 **Learning:** Web Development and Backend technologies to create seamless applications.
 - 👥 **Collaborating:** Open to full-stack projects—let's build something awesome together!
 - 💡 **Seeking Help:** Always eager to improve my frontend development skills.
